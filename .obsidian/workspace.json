@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6a4299d6e68a32aa",
+        "id": "33936d5d93df0f3b",
         "type": "tabs",
         "children": [
           {
-            "id": "920a36106f510311",
+            "id": "484aca22305ab7be",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlink"
+              "title": "Backlink pada README"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Tautan Keluar"
+              "title": "Tautan keluar dari README"
             }
           },
           {
@@ -154,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Kerangka"
+              "title": "Kerangka dari README"
             }
           },
           {
@@ -191,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "920a36106f510311",
+  "active": "484aca22305ab7be",
   "lastOpenFiles": [
     "README.md"
   ]
